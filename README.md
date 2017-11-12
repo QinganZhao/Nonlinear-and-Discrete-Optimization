@@ -1,2 +1,3 @@
 # Nonlinear-and-Discrete-Optimization-Course-Project
-A project present the numerical algorithms of 
+
+A project presents the numerical algorithms of optimization
